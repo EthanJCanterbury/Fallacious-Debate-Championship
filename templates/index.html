@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fallacious Debate Championship</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="game-container">
+        <h1 class="title">Fallacious Debate Championship</h1>
+        <button id="scrapModeToggle" class="scrap-toggle" onclick="toggleScrapMode()">ScrapMode: OFF</button>
+
+        <div id="topic-selection" class="screen active">
+            <h2>Choose your topic:</h2>
+            <div class="topics-list">
+                {% for topic in topics %}
+                <button class="topic-btn" onclick="selectTopic('{{topic}}')">{{topic}}</button>
+                {% endfor %}
+                <button class="topic-btn" onclick="selectRandomTopic()">Random Topic</button>
+                <div class="custom-topic">
+                    <input type="text" id="custom-topic" placeholder="Enter custom topic...">
+                    <button onclick="selectCustomTopic()">Use Custom Topic</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="game-screen" class="screen">
+            <div class="debate-arena">
+                <div class="player side-character">
+                    <div class="character-sprite player-sprite"></div>
+                    <div class="name-tag">You</div>
+                    <div class="debate-input">
+                        <textarea id="evidence" placeholder="Present your evidence..."></textarea>
+                        <button onclick="submitEvidence()">Submit</button>
+                    </div>
+                </div>
+
+                <div class="judge-section">
+                    <div class="game-info">
+                        <h2 id="current-topic"></h2>
+                        <p>Round: <span id="round-number">1</span>/5</p>
+                        <div class="score-display">
+                            <span id="score">0</span>
+                        </div>
+                    </div>
+                    <div class="judge">
+                        <div class="character-sprite judge-sprite"></div>
+                        <div class="name-tag">Judge</div>
+                        <div id="judge-speech" class="speech-bubble typing">ZzzZZzz...</div>
+                    </div>
+                </div>
+
+                <div class="opponent side-character">
+                    <div class="character-sprite opponent-sprite"></div>
+                    <div class="name-tag">Opponent</div>
+                    <div id="opponent-response" class="speech-bubble hidden"></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="end-screen" class="screen">
+            <h2>Game Over!</h2>
+            <p>Final Score: <span id="final-score">0</span></p>
+            <div id="result-message"></div>
+            <button onclick="restartGame()">Play Again</button>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='game.js') }}"></script>
+</body>
+</html>

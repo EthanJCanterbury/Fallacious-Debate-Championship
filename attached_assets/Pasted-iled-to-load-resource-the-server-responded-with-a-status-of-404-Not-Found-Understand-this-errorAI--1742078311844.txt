@@ -1,0 +1,150 @@
+iled to load resource: the server responded with a status of 404 (Not Found)Understand this errorAI
+ads:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 (Not Found)Understand this errorAI
+ads:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 (Not Found)Understand this errorAI
+ads:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 (Not Found)Understand this errorAI
+ads:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 (Not Found)Understand this errorAI
+ads:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 (Not Found)Understand this errorAI
+ads:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 (Not Found)Understand this errorAI
+ads:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 (Not Found)Understand this errorAI
+ads:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 (Not Found)Understand this errorAI
+ads:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 (Not Found)Understand this errorAI
+ads:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 (Not Found)Understand this errorAI
+ads:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 (Not Found)Understand this errorAI
+ads:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 (Not Found)Understand this errorAI
+ads:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 (Not Found)Understand this errorAI
+ads:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 (Not Found)Understand this errorAI
+ads:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 (Not Found)Understand this errorAI
+ads:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 (Not Found)Understand this errorAI
+game.js:125 
+            
+            
+           GET https://efcd6092-dc99-4a62-ac9c-4fb9182981b8-00-xi0xa56rsgla.kirk.replit.dev/static/ads 404 (Not Found)
+spawnAd @ game.js:125Understand this errorAI
+game.js:125 
+            
+            
+           GET https://efcd6092-dc99-4a62-ac9c-4fb9182981b8-00-xi0xa56rsgla.kirk.replit.dev/static/ads 404 (Not Found)
+spawnAd @ game.js:125Understand this errorAI
+game.js:125 
+            
+            
+           GET https://efcd6092-dc99-4a62-ac9c-4fb9182981b8-00-xi0xa56rsgla.kirk.replit.dev/static/ads 404 (Not Found)
+spawnAd @ game.js:125Understand this errorAI
+game.js:125 
+            
+            
+           GET https://efcd6092-dc99-4a62-ac9c-4fb9182981b8-00-xi0xa56rsgla.kirk.replit.dev/static/ads 404 (Not Found)
+spawnAd @ game.js:125Understand this errorAI
+game.js:125 
+            
+            
+           GET https://efcd6092-dc99-4a62-ac9c-4fb9182981b8-00-xi0xa56rsgla.kirk.replit.dev/static/ads 404 (Not Found)
+spawnAd @ game.js:125Understand this errorAI
+game.js:125 
+            
+            
+           GET https://efcd6092-dc99-4a62-ac9c-4fb9182981b8-00-xi0xa56rsgla.kirk.replit.dev/static/ads 404 (Not Found)
+spawnAd @ game.js:125Understand this errorAI
+game.js:125 
+            
+            
+           GET https://efcd6092-dc99-4a62-ac9c-4fb9182981b8-00-xi0xa56rsgla.kirk.replit.dev/static/ads 404 (Not Found)
+spawnAd @ game.js:125Understand this errorAI
+game.js:125 
+            
+            
+           GET https://efcd6092-dc99-4a62-ac9c-4fb9182981b8-00-xi0xa56rsgla.kirk.replit.dev/static/ads 404 (Not Found)
+spawnAd @ game.js:125Understand this errorAI
+game.js:125 
+            
+            
+           GET https://efcd6092-dc99-4a62-ac9c-4fb9182981b8-00-xi0xa56rsgla.kirk.replit.dev/static/ads 404 (Not Found)
+spawnAd @ game.js:125Understand this errorAI
+game.js:125 
+            
+            
+           GET https://efcd6092-dc99-4a62-ac9c-4fb9182981b8-00-xi0xa56rsgla.kirk.replit.dev/static/ads 404 (Not Found)
+spawnAd @ game.js:125Understand this errorAI
+game.js:125 
+            
+            
+           GET https://efcd6092-dc99-4a62-ac9c-4fb9182981b8-00-xi0xa56rsgla.kirk.replit.dev/static/ads 404 (Not Found)
+spawnAd @ game.js:125Understand this errorAI
+game.js:125 
+            
+            
+           GET https://efcd6092-dc99-4a62-ac9c-4fb9182981b8-00-xi0xa56rsgla.kirk.replit.dev/static/ads 404 (Not Found)
+spawnAd @ game.js:125Understand this errorAI
+game.js:125 
+            
+            
+           GET https://efcd6092-dc99-4a62-ac9c-4fb9182981b8-00-xi0xa56rsgla.kirk.replit.dev/static/ads 404 (Not Found)
+spawnAd @ game.js:125Understand this errorAI
+game.js:125 
+            
+            
+           GET https://efcd6092-dc99-4a62-ac9c-4fb9182981b8-00-xi0xa56rsgla.kirk.replit.dev/static/ads 404 (Not Found)
+spawnAd @ game.js:125Understand this errorAI
+game.js:125 
+            
+            
+           GET https://efcd6092-dc99-4a62-ac9c-4fb9182981b8-00-xi0xa56rsgla.kirk.replit.dev/static/ads 404 (Not Found)
+spawnAd @ game.js:125Understand this errorAI
+game.js:125 
+            
+            
+           GET https://efcd6092-dc99-4a62-ac9c-4fb9182981b8-00-xi0xa56rsgla.kirk.replit.dev/static/ads 404 (Not Found)
+spawnAd @ game.js:125Understand this errorAI
+game.js:125 
+            
+            
+           GET https://efcd6092-dc99-4a62-ac9c-4fb9182981b8-00-xi0xa56rsgla.kirk.replit.dev/static/ads 404 (Not Found)
+spawnAd @ game.js:125Understand this errorAI
